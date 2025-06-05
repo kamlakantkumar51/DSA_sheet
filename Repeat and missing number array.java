@@ -46,4 +46,4 @@ public class Solution {
         return new int[]{(int) repeating, (int) missing};
     }
 }
-
+//you can also solve by hashset
