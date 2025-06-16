@@ -17,3 +17,28 @@ class Solution {
         return count;
     }
 }
+
+import java.util.*;
+class Solution {
+    //slider window approach
+    public int lengthOfLongestSubstring(String s) {
+        Set<Character> ans = new HashSet<>();
+        int i = 0;
+        int maxcount = 0;
+
+        for (int j = 0; j < s.length(); j++) {
+            char ch = s.charAt(j);
+            while (ans.contains(ch)) {
+                ans.remove(s.charAt(i));
+                i++;
+            }
+
+            ans.add(ch);
+            maxcount = Math.max(maxcount, j - i + 1);
+        }
+
+        return maxcount;
+    }
+}
+
+
