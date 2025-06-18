@@ -1,3 +1,8 @@
+// Input:
+// S = "GFG"
+// Output: 43334
+// Explanation: For 'G' press '4' one time.
+// For 'F' press '3' three times.
 // User function Template for Java
 class Solution {
     String printSequence(String S) {
