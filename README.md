@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
