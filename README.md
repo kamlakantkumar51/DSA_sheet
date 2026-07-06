@@ -89,6 +89,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -135,4 +138,12 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
