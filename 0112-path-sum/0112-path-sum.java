@@ -3,12 +3,11 @@ class Solution {
         return helper(root,0,targetSum);
     }
     private boolean helper(TreeNode root,int sum,int target){
-        if(root == null){
-            return false;
-        }
+        if(root == null)return false;
         sum += root.val;
+
         if(root.left == null && root.right == null){
-            return target == sum;
+            return sum == target;
         }
         return helper(root.left,sum,target) || helper(root.right,sum,target);
     }
