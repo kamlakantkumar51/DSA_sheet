@@ -88,6 +88,7 @@
 | [0112-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
@@ -118,6 +119,7 @@
 | [0112-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
@@ -133,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
