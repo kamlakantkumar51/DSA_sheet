@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0061-rotate-list) |
@@ -85,6 +86,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -170,9 +172,11 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
