@@ -19,6 +19,7 @@
 | [0206-reverse-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
@@ -188,4 +191,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
