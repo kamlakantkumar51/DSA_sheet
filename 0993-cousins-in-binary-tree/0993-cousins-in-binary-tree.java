@@ -5,12 +5,10 @@ class Solution {
     TreeNode parentY = null;
     public boolean isCousins(TreeNode root, int x, int y) {
         dfs(root,null,0,x,y);
-        return depthX == depthY && parentX != parentY;
+        return depthX == depthY && parentX!= parentY;
     }
     private void dfs(TreeNode node,TreeNode parent,int depth,int x,int y){
-        if(node == null){
-            return;
-        }
+        if(node == null)return;
         if(node.val == x){
             depthX = depth;
             parentX = parent;
