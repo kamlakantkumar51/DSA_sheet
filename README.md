@@ -69,6 +69,7 @@
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
@@ -139,6 +141,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -196,6 +199,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -242,6 +246,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
