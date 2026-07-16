@@ -33,6 +33,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
