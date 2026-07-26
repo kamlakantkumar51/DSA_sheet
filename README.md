@@ -90,6 +90,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -272,6 +274,7 @@
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
