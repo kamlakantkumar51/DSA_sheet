@@ -89,6 +89,7 @@
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -293,6 +295,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
