@@ -68,6 +68,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -92,6 +93,7 @@
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
@@ -126,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
@@ -271,6 +275,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
@@ -328,4 +333,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
