@@ -75,6 +75,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -165,6 +167,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -193,6 +196,7 @@
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -225,6 +229,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -245,6 +250,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
