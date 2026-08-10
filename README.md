@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
