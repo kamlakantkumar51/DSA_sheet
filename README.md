@@ -81,6 +81,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
@@ -356,4 +358,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
