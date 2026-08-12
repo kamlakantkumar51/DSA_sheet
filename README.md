@@ -96,6 +96,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
@@ -314,6 +315,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
