@@ -100,6 +100,7 @@
 | [0047-permutations-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -340,6 +342,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
