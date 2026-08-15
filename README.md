@@ -99,6 +99,7 @@
 | [0046-permutations](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
@@ -370,4 +372,5 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
