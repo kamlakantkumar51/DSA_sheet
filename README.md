@@ -307,6 +307,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
@@ -325,6 +326,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -373,4 +375,8 @@
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
