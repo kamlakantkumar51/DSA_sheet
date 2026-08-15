@@ -82,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
@@ -287,6 +288,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 ## Divide and Conquer
@@ -309,6 +311,7 @@
 | [0002-add-two-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
@@ -378,6 +381,7 @@
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
