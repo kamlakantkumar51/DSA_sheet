@@ -52,6 +52,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0143-reorder-list) |
@@ -83,6 +84,7 @@
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
