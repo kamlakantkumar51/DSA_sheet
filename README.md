@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0102-binary-tree-level-order-traversal) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0102-binary-tree-level-order-traversal) |
@@ -321,6 +323,7 @@
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -344,6 +347,7 @@
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
@@ -396,4 +400,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
