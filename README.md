@@ -41,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0061-rotate-list) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
@@ -362,6 +364,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
@@ -432,4 +435,8 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
