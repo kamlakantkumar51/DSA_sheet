@@ -18,6 +18,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0206-reverse-linked-list) |
@@ -74,6 +75,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
