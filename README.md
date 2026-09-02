@@ -116,6 +116,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -375,6 +376,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
