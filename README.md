@@ -353,6 +353,7 @@
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [3871-count-commas-in-range-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
