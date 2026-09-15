@@ -53,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -127,6 +128,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
@@ -359,6 +361,7 @@
 | [0070-climbing-stairs](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
