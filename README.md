@@ -128,6 +128,7 @@
 | [0120-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
@@ -399,6 +400,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
