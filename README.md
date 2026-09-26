@@ -82,6 +82,7 @@
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
@@ -134,6 +135,7 @@
 | [0152-maximum-product-subarray](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
@@ -164,6 +166,7 @@
 | [0088-merge-sorted-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -320,6 +323,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -342,6 +346,7 @@
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,6 +376,7 @@
 | [0096-unique-binary-search-trees](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/3871-count-commas-in-range-ii) |
