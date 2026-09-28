@@ -77,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
@@ -101,6 +102,7 @@
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0097-interleaving-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
