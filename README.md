@@ -156,6 +156,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -334,6 +335,7 @@
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -491,4 +493,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
