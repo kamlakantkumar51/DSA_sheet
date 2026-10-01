@@ -151,6 +151,7 @@
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
@@ -336,6 +337,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
 ## Prefix Sum
