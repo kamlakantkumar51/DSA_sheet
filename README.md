@@ -74,6 +74,7 @@
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2487-remove-nodes-from-linked-list) |
@@ -162,6 +163,7 @@
 | [0705-design-hashset](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
