@@ -76,6 +76,7 @@
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2487-remove-nodes-from-linked-list) |
@@ -119,6 +120,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -182,6 +184,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
@@ -533,4 +536,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
