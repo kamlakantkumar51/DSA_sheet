@@ -118,6 +118,7 @@
 | [0076-minimum-window-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0097-interleaving-string) |
+| [0301-remove-invalid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
@@ -339,6 +340,7 @@
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -432,6 +434,7 @@
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0301-remove-invalid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
