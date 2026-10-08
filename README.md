@@ -65,6 +65,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -110,6 +111,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
@@ -541,6 +543,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
