@@ -74,6 +74,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
@@ -540,6 +541,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0706-design-hashmap) |
 ## Bracket Sequences
@@ -548,4 +550,8 @@
 | [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
