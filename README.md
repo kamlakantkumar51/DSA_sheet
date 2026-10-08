@@ -73,6 +73,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
@@ -538,6 +539,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0706-design-hashmap) |
 ## Bracket Sequences
