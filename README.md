@@ -389,6 +389,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
@@ -402,6 +403,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0191-number-of-1-bits) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
