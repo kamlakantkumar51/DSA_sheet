@@ -159,6 +159,7 @@
 | [0120-triangle](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -389,6 +390,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
