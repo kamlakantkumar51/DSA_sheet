@@ -151,6 +151,7 @@
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -390,6 +391,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0137-single-number-ii) |
@@ -446,6 +448,7 @@
 | ------- |
 | [0046-permutations](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0113-path-sum-ii) |
