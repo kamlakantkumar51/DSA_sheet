@@ -285,6 +285,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -353,6 +354,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
@@ -493,6 +495,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
 | ------- |
@@ -574,4 +577,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
