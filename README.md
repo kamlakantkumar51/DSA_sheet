@@ -567,4 +567,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0232-implement-queue-using-stacks) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
