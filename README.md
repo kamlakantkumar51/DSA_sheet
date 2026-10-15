@@ -297,6 +297,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
@@ -369,6 +370,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -513,6 +515,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |
@@ -601,8 +604,17 @@
 | [0130-surrounded-regions](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
