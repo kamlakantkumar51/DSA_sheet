@@ -450,6 +450,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -551,6 +552,7 @@
 | [0054-spiral-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -623,4 +625,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
