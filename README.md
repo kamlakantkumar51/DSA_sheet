@@ -115,6 +115,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0067-add-binary) |
@@ -464,6 +465,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0078-subsets) |
@@ -476,6 +478,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0063-unique-paths-ii) |
@@ -589,6 +592,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
