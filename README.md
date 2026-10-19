@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -99,6 +100,7 @@
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0706-design-hashmap) |
@@ -126,6 +128,7 @@
 | [0097-interleaving-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0097-interleaving-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0301-remove-invalid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -136,6 +139,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
