@@ -310,6 +310,7 @@
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
@@ -385,6 +386,7 @@
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0909-snakes-and-ladders) |
@@ -538,6 +540,7 @@
 | [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0841-keys-and-rooms) |
 ## Memoization
 |  |
@@ -650,4 +653,13 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
