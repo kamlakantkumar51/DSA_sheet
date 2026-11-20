@@ -200,6 +200,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1710-maximum-units-on-a-truck) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -231,6 +232,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 | [0968-binary-tree-cameras](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -394,6 +397,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +409,7 @@
 | [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -532,6 +537,7 @@
 | [0909-snakes-and-ladders](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -632,6 +638,7 @@
 | [0200-number-of-islands](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -662,4 +669,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
