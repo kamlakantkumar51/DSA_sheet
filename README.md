@@ -191,6 +191,7 @@
 | [0706-design-hashmap](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0904-fruit-into-baskets) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0621-task-scheduler) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
@@ -310,6 +312,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
@@ -387,6 +390,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0802-find-eventual-safe-states) |
@@ -406,6 +410,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1095-find-in-mountain-array) |
@@ -534,6 +539,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -637,6 +643,7 @@
 | [0130-surrounded-regions](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
 ## Directed Acyclic Graph
@@ -672,5 +679,10 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/kamlakantkumar51/DSA_sheet/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
